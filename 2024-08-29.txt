@@ -1,0 +1,7 @@
+Today I installed the necessary tools for web development
+
+I was also introduced to the HTML language
+I learnt about
+- meaning of HTML
+- HTML headings (h1 - h6)
+- I practiced the use of h1 - h6
